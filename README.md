@@ -43,18 +43,18 @@ $ streamlit run face_detec.py
 Sample uploading a random image
 
 <p align="center">
-  <img src="screen_shots/Screenshot from 2022-06-23 15-02-00.png" alt="sample image">
+  <img src="screenshots/Screenshot from 2022-06-23 15-02-00.png" alt="sample image">
 </p>
 <p align="center">After uploading image sucessfully <br> Click to start Processing </p>
 
 <p align="center">
-  <img src="screen_shots/Screenshot from 2022-06-23 15-02-15.png" alt="sample image">
+  <img src="screenshots/Screenshot from 2022-06-23 15-02-15.png" alt="sample image">
 </p>
 <p align="center"> 🎉 Hey! Here you Go </p>
  
  ### Sample gif attach
 <p align="center">
-  <img src="screen_shots/real time face mask gif.gif" alt="sample gif">
+  <img src="screenshots/real time face mask gif.gif" alt="sample gif">
 </p>
 
 
